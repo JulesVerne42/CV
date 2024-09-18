@@ -9,15 +9,26 @@ Willy / 32 ans / France
 
 ### Formations
 1. Formations passées :
-   - TP Conception de Produits Industriels | **Etienne Mimard, Loire 42**
-   - Bac Pro Technicien d'Usinage | **Beauregard, Loire 42**
-   - BEP Tourneur/Fraiseur | **Beauregard, Loire 42**
+   - TP Conception de Produits Industriels | **[Etienne Mimard](https://etienne-mimard.ent.auvergnerhonealpes.fr/), Loire 42**
+   - Bac Pro Technicien d'Usinage | **[Beauregard](https://beauregard.ent.auvergnerhonealpes.fr/), Loire 42**
+   - BEP Tourneur/Fraiseur | **[Beauregard](https://beauregard.ent.auvergnerhonealpes.fr/), Loire 42**
 
 2. Formations à venir :
-   - TP Technicien Supérieur Systèmes et Réseaux | **Wild Code School, Remote**
+   - TP Technicien Supérieur Systèmes et Réseaux | **[Wild Code School](https://www.wildcodeschool.com), Remote**
    - CCNA | **Cisco**
 
 
 ### Expériences professionnelles
 - Projeteur Bureau d'Etude Mécanique, 11 ans
+  >*Concevoir et lancer en production un projet mécanique seul ou en équipe dans le domaine de la machine spéciale automobile ou agroalimentaire.*
 - Tourneur/Fraiseur sur commande numérique, 1 an
+  >*Maintenir un parc machine en production, fraisage, tournage, brochage.*
+
+
+### Hobbies
+- Informatique
+- Vtt
+- Bricoler
+
+>#### Dans mon Lab
+><img src="https://simpleicons.org/icons/openmediavault.svg" alt="OMV" width="60" height="60">
