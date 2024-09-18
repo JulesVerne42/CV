@@ -32,3 +32,12 @@ Willy / 32 ans / France
 
 >#### Dans mon Lab
 ><img src="https://simpleicons.org/icons/openmediavault.svg" alt="OMV" width="60" height="60">
+><img src="https://simpleicons.org/icons/proxmox.svg" alt="PROXMOX" width="60" height="60">
+><img src="https://simpleicons.org/icons/ubuntu.svg" alt="UBUNTU" width="60" height="60">
+><img src="https://simpleicons.org/icons/debian.svg" alt="DEBIAN" width="60" height="60">
+><img src="https://simpleicons.org/icons/linuxmint.svg" alt="MINT" width="60" height="60">
+><img src="https://simpleicons.org/icons/plex.svg" alt="PLEX" width="60" height="60">
+><img src="https://simpleicons.org/icons/docker.svg" alt="DOCKER" width="60" height="60">
+><img src="https://simpleicons.org/icons/openvpn.svg" alt="OPENVPN" width="60" height="60">
+><img src="https://simpleicons.org/icons/speedtest.svg" alt="LIBRESPEED" width="60" height="60">
+><img src="https://simpleicons.org/icons/synology.svg" alt="SYNOLOGY" width="60" height="60">
